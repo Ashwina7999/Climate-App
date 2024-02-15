@@ -1,0 +1,81 @@
+.logos h1 {
+  float: left;
+  color: white;
+  font-size: 160%;
+  padding-left: 25px;
+  padding-top: 15px;
+}
+
+.logos .fa {
+  font-size: 24px;
+  color: white;
+  float: right;
+  padding-right: 25px;
+  padding-top: 15px;
+  cursor: pointer;
+}
+
+.sidebar {
+  height: 100%;
+  width: 0px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 35px;
+  text-align: center;
+  font-family: Arial;
+}
+
+.sidebar p {
+  padding: 0px 0px 27px 0px;
+  text-decoration: none;
+  font-size: 19px;
+  color: silver;
+  display: block;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.sidebar p:hover {
+  color: white;
+}
+
+.sidebar .closeSliderBox,
+.sliderBox .closeSliderBox:hover {
+  color: white;
+}
+
+.sidebar .closeSliderBox,
+.sliderBox .closeSliderBox {
+  position: absolute;
+  top: 7px;
+  right: 25px;
+  font-size: 36px;
+  cursor: pointer;
+  margin-left: 50px;
+  color: silver;
+}
+
+.sliderBox {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.9);
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.largeMap {
+  width: 90%;
+  height: 470px;
+  border: 2px solid yellow;
+  margin: auto;
+}

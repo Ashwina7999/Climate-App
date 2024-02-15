@@ -1,0 +1,59 @@
+/*ALERTS*/
+.heading {
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 105%;
+}
+
+.alert-box-close {
+  color: white;
+  font-size: 40px;
+  text-align: right;
+  margin-right: 25px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.alertbox {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.9);
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.alert-heading {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.alert-container {
+  width: 786px;
+  height: auto;
+  background: #fff;
+  margin: auto;
+  margin-top: -25px;
+  border-radius: 10px;
+}
+
+.alert-card {
+  padding: 50px 60px 70px 60px;
+}
+
+@media screen and (max-width: 1024px) {
+  .alert-container {
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .alert-container {
+    width: calc(100% - 30px);
+    max-width: 100%;
+  }
+}

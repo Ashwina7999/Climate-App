@@ -1,0 +1,44 @@
+.airbox {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.air_additional {
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI';
+}
+
+.air-heading {
+    font-weight: 600;
+}
+
+.air-pollution-close {
+    color: white;
+    font-size: 40px;
+    text-align: right;
+    margin-right: 25px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.air-details {
+    text-align: center;
+    color: white;
+}
+
+.air-details b {
+    font-weight: 600;
+}
+
+.air-details img {
+    width: 25px;
+}
