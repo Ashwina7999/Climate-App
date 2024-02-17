@@ -15,27 +15,19 @@ Web application for displaying the Current weather, Air pollution data, Forecast
 
 ![Screenshot (1110)](https://github.com/Ashwina7999/Climate-App/assets/59051731/35a7ea42-7932-43b1-844d-e08457cda0d7)
 
-<br>
-
 #### HOME PAGE
-#### VIEW 1
 
+#### VIEW 1
 
 ![Screenshot (1040)](https://github.com/Ashwina7999/Climate-App/assets/59051731/fd480399-5529-4857-9fbf-9ff1a3ebe599)
 
 ![Screenshot (1041)](https://github.com/Ashwina7999/Climate-App/assets/59051731/6c95ab20-0db9-45a9-a5aa-bc833b0cb1e0)
-
-
-<br><br>
 
 #### VIEW 2
 
 ![Screenshot (1065)](https://github.com/Ashwina7999/Climate-App/assets/59051731/0eb8fab1-2536-474b-b25c-01302a436870)
 
 ![Screenshot (1066)](https://github.com/Ashwina7999/Climate-App/assets/59051731/3e95e924-b5cb-4e0a-bea1-876f3ec35556)
-
-
-<br><br>
 
 ### VIEW 3
 
