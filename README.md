@@ -7,7 +7,7 @@ Web application for displaying the Current weather, Air pollution data, Forecast
 
 ---
 
-###Mobile View
+### Mobile View
 ![4](https://github.com/Ashwina7999/Climate-App/assets/59051731/03e58e9e-9b3b-4aff-b7fc-35b34a35a820)
 
 ![1](https://github.com/Ashwina7999/Climate-App/assets/59051731/fa59adc3-1c9e-44a4-9855-bc005afb2d7e)
