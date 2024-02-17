@@ -3,7 +3,7 @@
 This project was created with React and other Front End Tecgnologies
 [Project Link](https://ashwina7999.github.io/Climate-App/).
 
-##Web application for displaying the Current weather, Air pollution data, Forecasting, Maps, Historical data and Alert Messages (if available).
+## Web application for displaying the Current weather, Air pollution data, Forecasting, Maps, Historical data and Alert Messages (if available).
 
 ## Available Scripts
 
