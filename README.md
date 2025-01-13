@@ -11,6 +11,7 @@ A Web Application that displays the Current weather, Air pollution data, Forecas
 ![305642432-03e58e9e-9b3b-4aff-b7fc-35b34a35a820](https://github.com/user-attachments/assets/4f8391bf-cbbf-47cd-8083-80fcdc68deb9)
 
 
+
 ![305642438-fa59adc3-1c9e-44a4-9855-bc005afb2d7e](https://github.com/user-attachments/assets/9ad933ec-7358-47f0-859c-c6273c080e74)
 
 
@@ -23,7 +24,7 @@ A Web Application that displays the Current weather, Air pollution data, Forecas
 ![305640417-0f8fd5ff-cb23-4999-b8bb-02fe5f2cec84](https://github.com/user-attachments/assets/66cf16c2-b2fc-47d9-8216-e719ed0780cc)
 
 
-!![305640433-35a7ea42-7932-43b1-844d-e08457cda0d7](https://github.com/user-attachments/assets/bcd07929-edf4-4aae-a06d-309735b43a4f)
+![305640433-35a7ea42-7932-43b1-844d-e08457cda0d7](https://github.com/user-attachments/assets/bcd07929-edf4-4aae-a06d-309735b43a4f)
 
 #### HOME PAGE
 
