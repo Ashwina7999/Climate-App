@@ -10,9 +10,7 @@ A Web Application that displays the Current weather, Air pollution data, Forecas
 ### Mobile View
 ![305642432-03e58e9e-9b3b-4aff-b7fc-35b34a35a820](https://github.com/user-attachments/assets/4f8391bf-cbbf-47cd-8083-80fcdc68deb9)
 
-
-
-![305642438-fa59adc3-1c9e-44a4-9855-bc005afb2d7e](https://github.com/user-attachments/assets/9ad933ec-7358-47f0-859c-c6273c080e74)
+![402499872-9ad933ec-7358-47f0-859c-c6273c080e74](https://github.com/user-attachments/assets/d29642e0-a2a0-43ac-b501-691428a7d01b)
 
 
 ---
